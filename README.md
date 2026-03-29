@@ -88,8 +88,8 @@ plt.title("Linear vs Polynomial Regression")
 plt.legend()
 plt.show()
 Program to implement Linear and Polynomial Regression models for predicting car prices.
-Developed by: 
-RegisterNumber:  
+Developed by: R K NIKKIL VARSHAN
+RegisterNumber:  212225040280
 */
 ```
 
