@@ -64,8 +64,8 @@ poly_model = Pipeline([
 poly_model.fit(X_train, y_train)
 y_pred_poly = poly_model.predict(X_test)
 # Evaluate models
-print('Name: Anise Kinsella A')
-print('Reg. No: 212225040021')
+print('Name: r k nikkil varshan')
+print('Reg. No: 212225040280')
 print("Linear Regression:")
 mse=mean_squared_error(y_test,y_pred_linear)
 print('MSE= ',mean_squared_error(y_test,y_pred_linear))
